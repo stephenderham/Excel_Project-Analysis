@@ -7,7 +7,7 @@
 This project allows users to interrogate salary data by role, location, and experience level to better understand trends and patterns in compensation across the industry.
 
 ### Dashboard File
-Final dashboard download: [Project_1-Dashbard.xlsx](Project_1-Dashbard.xlsx)
+Final dashboard download: [Project_1-Dashboard.xlsx](Project_1-Dashboard.xlsx)
 
 ### Excel Skills Used
 

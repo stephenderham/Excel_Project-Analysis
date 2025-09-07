@@ -1,13 +1,13 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](../Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
 This project allows users to interrogate salary data by role, location, and experience level to better understand trends and patterns in compensation across the industry.
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](Project_1-Dashbard.xlsx)
+My final dashboard is in [1_Salary_Dashboard.xlsx](../Project_1-Dashbard.xlsx)
 
 ### Excel Skills Used
 
@@ -32,7 +32,7 @@ The dataset used for this project contains real-world data science job informati
 
 ####  Data Science Job Salaries - Bar Chart
 
-<img src="Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="../Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 -  **Excel Function:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 -  **Data Organization:** Sorted job titles by descending salary for improved readability.
@@ -40,7 +40,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Chart2.png](../Images/1_Salary_Dashboard_Country_Map.gif)
 
 -  **Excel Function:** Utilized Excel's map chart feature to plot median salaries globally.
 -  **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -70,11 +70,11 @@ IF(
 
 Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1.png](../Images/1_Salary_Dashboard_Screenshot1.png)
 
 Dashboard Implementation
 
-<img src="Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="../Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 #### Count of Job Schedule Type
 
@@ -87,11 +87,11 @@ Dashboard Implementation
 
 Background Table
 
-![1_Salary_Dashboard_Type.png](Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Type.png](../Images/1_Salary_Dashboard_Screenshot2.png)
 
 Dashboard Implementation:
 
-<img src="Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="../Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### Data Validation
 
@@ -102,7 +102,7 @@ Dashboard Implementation:
     - Incorrect or inconsistent entries are prevented
     - Overall usability of the dashboard is enhanced
 
-<img src="Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="../Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 

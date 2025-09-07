@@ -1,6 +1,6 @@
 # Introduction
 
-
+This repository showcases Excel-based projects that apply data analytics to real-world job market data. The focus is on building interactive dashboards and conducting analysis to uncover insights into salaries, roles, and in-demand skills within the data industry.
 
 ## Salary Dashboard
 #### An interactive Excel dashboard built to explore the data job market - [Project link here](Project_1_Dashboard)    
